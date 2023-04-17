@@ -1,0 +1,68 @@
+1681479504679	geckodriver	INFO	Listening on 127.0.0.1:49918
+1681479507768	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "c:\\TEMP\\rust_mozprofileHpDJFW"
+1681479508474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681479508479	Marionette	INFO	Listening on port 49927
+Read port: 49927
+WebDriver BiDi listening on ws://127.0.0.1:49919
+1681479508608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileHpDJFW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49919/devtools/browser/ba9b6ca6-a22f-45ef-825b-acee2e90e973
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1681480282425	Marionette	INFO	Stopped listening on port 49927
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ile" "c:\\TEMP\\rust_mozprofilePIk8vQ"
+1681479584650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681479584655	Marionette	INFO	Listening on port 50157
+Read port: 50157
+WebDriver BiDi listening on ws://127.0.0.1:50148
+1681479584768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofilePIk8vQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50148/devtools/browser/ab5dddb7-c42e-494b-9baf-ed0242e8495b
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1681480282417	Marionette	INFO	Stopped listening on port 50157
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13976, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+ port: 50311
+WebDriver BiDi listening on ws://127.0.0.1:50303
+1681479634403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at c:\\TEMP\\rust_mozprofileXivI6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50303/devtools/browser/68aa6439-ba9f-42c7-aabd-e1aa450ca077
+[Child 7364, MediaDecoderStateMachine #1] WARNING: Decoder=2b725640a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 7364, MediaDecoderStateMachine #1] WARNING: Decoder=2b725640a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yandex.ru."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 199: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 199))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 199))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yandex.ru."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681480277549	Marionette	INFO	Stopped listening on port 50311
+Dynamically enable window occlusion 1
+avaScript error: https://yastatic.net/s3/front-maps-static/maps-front-maps/build/client/metro/chunks/metrobase/2bef4c8ee9038b6182b6.yandex.ru.js, line 1: Error: Failed to load https://yandex.ru/ads/system/context.js
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.moscowmap.ru."
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.moscowmap.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.moscowmap.ru."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.moscowmap.ru."
+JavaScript error: resource://devtools/client/framework/devtools.js, line 900: TypeError: a11yPanel.selectAccessibleForNode is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.moscowmap.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681480282585	Marionette	INFO	Stopped listening on port 50702
+Dynamically enable window occlusion 1
